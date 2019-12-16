@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+
+.img-logo {
+    width : 150px;
+    height: 150px;
+    position: center;
+
+}
+.div-logo {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.div-title {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    font-size : xx-large;
+}
+.div-step {
+    text-align: center;
+    font-size : 22px;
+}
+label {
+    float: left;
+}
+.form-sender {
+     width : 450px !important;
+ }
+.form-input {
+    width : 300px !important;
+}
+.div-submit {
+    text-align: center;
+    color : white !important;
+}
+.btn-submit {
+    width : 200px;
+    color : white !important;
+
+}
+a:hover {
+    /*color: red !important;*/
+    opacity: 0.7 !important;
+    text-decoration: none !important;
+}
+a {
+    color : white !important;
+}
+body {
+    font-family: 'Kaushan Script', cursive !important;
+    color : black !important;
+}
